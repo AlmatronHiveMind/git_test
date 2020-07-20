@@ -1,0 +1,9 @@
+First Edit
+
+This is the start of the document and it is on the master branch
+
+Save this and then 
+	+ Add the changes to the staging area
+	+ commit the changes from the staging area to the repo
+
+---------------------------------------------------------------------------
