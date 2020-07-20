@@ -16,3 +16,10 @@ This is the second commit (change)
 
 This is the first edit of the new branch - detour
 
+---------------------------------------------------------------------------
+
+This is the second edit of the new branch - detour
+
+---------------------------------------------------------------------------
+
+
