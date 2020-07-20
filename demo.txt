@@ -1,4 +1,4 @@
-First Edit
+First Edit - Master Branch
 
 This is the start of the document and it is on the master branch
 
@@ -7,3 +7,12 @@ Save this and then
 	+ commit the changes from the staging area to the repo
 
 ---------------------------------------------------------------------------
+
+Second Edit - Master Branch
+
+This is the second commit (change)
+
+---------------------------------------------------------------------------
+
+
+
